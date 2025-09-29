@@ -1,0 +1,42 @@
+.container__formulario {
+    text-align: center;
+    background-color: var(--cor-de-fundo);
+    padding: 4% 0%;
+}
+
+.titulo__formulario {
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.texto__formulario {
+    padding-top: 1em;
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+}
+
+.input__formulario {
+    padding: 12px 100px 12px 14px;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza);
+}
+
+.botao__formulario {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 12px 20px;
+    border: 1px;
+    margin-left: 0.5%;
+    background-color: var(--vermelho);
+    color: var(--cor-de-fundo);
+}
+
+.input__botao__formulario {
+    padding: 2% 0%;
+}
